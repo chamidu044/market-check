@@ -8,7 +8,7 @@ const nextConfig = {
 			},
 			{
 				protocol: "https",
-				hostname: "codeverse-market.vercel.app",
+				hostname: "market-check.onrender.com",
 			},
 		],
 	},
